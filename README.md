@@ -1,5 +1,5 @@
 # devops
-![alt text](devops.png)
+<img src="devops.png" align="left" width="50">
 library for DevOps tools
 
 
