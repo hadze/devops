@@ -1,5 +1,6 @@
 # devops
-<img src="devops.png" align="left" width="50">
+<img src="devops.png" align="left" width="96">
+
 library for DevOps tools
 
 
